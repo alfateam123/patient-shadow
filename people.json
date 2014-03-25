@@ -1,0 +1,15 @@
+[
+  {"user":"alfateam123",
+  	"sources":[
+  		"http://www.nyaa.se/?page=rss&user=110006",
+  		"http://www.nyaa.se/?page=rss&cats=0_0&filter=0&term=log+horizon+fate"
+  		]
+  },
+  {"user":"RoxasShadowRS",
+  	"sources":[
+  	"http://www.nyaa.se/?page=rss&term=coppelion+vivid",
+  	"http://www.nyaa.se/?page=rss&cats=0_0&filter=0&term=kill%20la%20kill%20fate",
+  	"http://www.nyaa.se/?page=rss&cats=0_0&filter=0&term=nif"
+  	]
+  }
+]
